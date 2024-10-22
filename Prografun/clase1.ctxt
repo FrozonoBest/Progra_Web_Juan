@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=clase1
+comment0.text=\r\n\ sum\ of\ two\ numbers\r\n\ parameter\ a\ actual\r\n\ parameter\ b\ actual\r\n\ @real\ number\ parameter\r\n\ resturn\ the\ sum\ of\ two\ numbers\r\n
+comment1.params=a\ b
+comment1.target=double\ suma(double,\ double)
+numComments=2

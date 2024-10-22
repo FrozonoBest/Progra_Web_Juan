@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=clase8
+comment0.text=\r\n\ exercise\ that\ recognizes\ the\ 5\r\n\ param\ n\r\n\ \r\n
+comment1.params=n
+comment1.target=int\ calcular(int)
+comment2.params=n1\ n2
+comment2.target=boolean\ sonamigos(int,\ int)
+numComments=3

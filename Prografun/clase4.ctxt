@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=clase4
+comment0.text=\r\n\ greater\ than\ two\ numbers\r\n\ parame\ a\ intiger\r\n\ parame\ b\ intiger\r\n\ resturn\ integer\ largest\ number\r\n
+comment1.params=n
+comment1.target=int\ divisores(int)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=clase6
+comment1.params=texto
+comment1.target=int\ contarletras(java.lang.String)
+comment1.text=\r\n\ funcion\ que\ indica\ cuantas\ letras\ tiene\ un\ texto\r\n
+comment2.params=a\ b
+comment2.target=boolean\ identificador(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ funcion\ que\ indica\ SI\ AU\ UN\ CARACTER\ EXISTE\ EN\ LA\ PALABRA\r\n
+comment3.params=a\ b
+comment3.target=boolean\ igualar(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ comparar\ dos\ textos\ SI\ SON\ IGUALES\r\n
+numComments=4

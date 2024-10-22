@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=clase5
+comment0.text=\r\n\ exercise\ that\ recognizes\ the\ 5\r\n\ param\ n\r\n\ \r\n
+comment1.params=n\ a
+comment1.target=boolean\ numeromultiple(int,\ int)
+numComments=2

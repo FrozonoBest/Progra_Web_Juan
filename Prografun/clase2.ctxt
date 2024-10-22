@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=clase2
+comment0.text=\r\n\ greater\ than\ two\ numbers\r\n\ parame\ a\ intiger\r\n\ parame\ b\ intiger\r\n\ resturn\ integer\ largest\ number\r\n
+comment1.params=a\ b
+comment1.target=int\ numeromayor(int,\ int)
+numComments=2

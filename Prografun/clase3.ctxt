@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=clase3
+comment0.text=\r\n\ function\ that\ indicates\ whether\ an\ integer\ or\ is\ even\r\n\ param\ n\ \r\n\ param\ mo\r\n
+comment1.params=n
+comment1.target=boolean\ numeropar(int)
+comment2.params=n
+comment2.target=boolean\ numeroimp(int)
+numComments=3

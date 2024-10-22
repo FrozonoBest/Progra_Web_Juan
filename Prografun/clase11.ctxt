@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=clase11
+comment1.params=txt\ c
+comment1.target=boolean\ haychar(java.lang.String,\ char)
+comment1.text=\r\n\ DADO\ UN\ TEXTO\ INDICAR\ SI\ CONTIENE\ ALGUN\ CARACTER\ NUMERICO.\r\n
+comment2.params=txt
+comment2.target=boolean\ existenumero(java.lang.String)
+numComments=3

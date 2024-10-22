@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Clase0
+comment1.params=numero
+comment1.target=int\ contadorDigitos(int)
+comment1.text=\ \r\n\ Metodo\ que\ permite\ contar\ los\ digitos\ de\ un\ numero\ entero\r\n\ \r\n\ @param\ \ numero\ de\ tipo\ entero\ positivo\r\n\ @return\ \ res\ \ que\ es\ la\ cantidad\ de\ digitos\r\n
+comment2.params=a\ b
+comment2.target=int\ pote(int,\ int)
+comment2.text=\r\n\ Metodo\ que\ permite\ calcular\ la\ potencia\ de\ un\ numero\r\n\ \r\n\ @param\ \ \ a\ entero\ positivo\r\n\ @param\ \ \ b\ entero\ positivo\r\n\ @return\ \ res\ \ \ \ \ el\ la\ potencia\ calculada\r\n
+comment3.params=numero
+comment3.target=int\ invertir(int)
+comment3.text=\r\n\ Metodo\ para\ invertir\ un\ numero\ entero\ positivo\r\n\ \r\n\ @param\ \ \ numero\ de\ tipo\ entero\r\n\ @return\ \ res\ \ \ \ \ el\ numero\ invertido\r\n
+comment4.params=
+comment4.target=void\ main()
+numComments=5
