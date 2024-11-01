@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sistema
+comment1.params=
+comment1.target=void\ registroAve()
+comment2.params=
+comment2.target=void\ registroPez()
+comment3.params=
+comment3.target=void\ registroAnimal()
+comment4.params=
+comment4.target=void\ menu()
+comment5.params=
+comment5.target=void\ ejecutarOp()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

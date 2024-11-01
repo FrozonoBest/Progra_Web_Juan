@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DB
+comment1.params=p
+comment1.target=void\ registrarPez(Pez)
+comment2.params=v
+comment2.target=void\ registrarAve(Ave)
+comment3.params=an
+comment3.target=void\ registrarAnimal(Animal)
+comment4.params=
+comment4.target=Animal\ mostrarUltAnimal()
+comment5.params=pos
+comment5.target=Animal\ animalPos(int)
+comment6.params=pos
+comment6.target=Pez\ pezPos(int)
+comment7.params=pos
+comment7.target=Ave\ avePos(int)
+numComments=8

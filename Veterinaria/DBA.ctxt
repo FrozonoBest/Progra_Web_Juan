@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=DBA
+comment1.params=a
+comment1.target=void\ setAnimal(Animal)
+comment10.params=a
+comment10.target=void\ getAve(Ave)
+comment2.params=
+comment2.target=void\ getUltAnimal()
+comment3.params=pos
+comment3.target=void\ getAnimalPos(int)
+comment4.params=a
+comment4.target=void\ getAnimal(Animal)
+comment5.params=p
+comment5.target=void\ setPez(Pez)
+comment6.params=pos
+comment6.target=void\ getPezPos(int)
+comment7.params=a
+comment7.target=void\ getPez(Pez)
+comment8.params=v
+comment8.target=void\ setAve(Ave)
+comment9.params=pos
+comment9.target=void\ getAvePos(int)
+numComments=11

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ave
+comment1.params=
+comment1.target=Ave()
+comment1.text=\r\nConstructor-1\ for\ objects\ of\ class\ ave\r\n
+comment2.params=volar\ color\ nombre
+comment2.target=Ave(boolean,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Metod\ setInfobasica\ para\ la\ informacion\ del\ ave\r\n\ \r\n\ @param\ <volar>\ de\ tipo\ boolean\r\n\ @param\ <color>\ de\ tipo\ String\r\n\ @param\ <nombre>\ de\ tipo\ String\r\n
+comment3.params=tipo\ nombre\ color\ raza\ genero\ peso\ tamanho\ volar
+comment3.target=Ave(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ double,\ double,\ boolean)
+comment4.params=volar
+comment4.target=void\ setVolar(boolean)
+comment4.text=\r\n\ Metodo\ setVolar\r\n\ \r\n\ @param\ \ <volar>\ tipo\ boolaen\r\n
+comment5.params=
+comment5.target=boolean\ getVolar()
+comment5.text=\r\n\ Metodo\ getVolar\r\n\ \r\n\ return\ boolean\r\n
+numComments=6

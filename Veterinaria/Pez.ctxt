@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pez
+comment1.params=
+comment1.target=Pez()
+comment1.text=\r\n\ Constructor-1\ for\ objects\ of\ class\ Pez\r\n
+comment2.params=ambiente\ color\ nombre
+comment2.target=Pez(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=tipo\ raza\ nombre\ color\ peso\ tamanho\ genero\ ambiente
+comment3.target=Pez(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ char,\ java.lang.String)
+comment4.params=peso
+comment4.target=void\ setPeso(double)
+comment4.text=\r\n\ Metodo\ setPeso\r\n\ \r\n\ @param\ \ <peso>\ tipo\ double\r\n\ @return\ \ void\ \r\n
+numComments=5
